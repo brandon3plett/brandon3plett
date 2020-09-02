@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there! 👋👋
+
+My name is Brandon Triplett, and thanks for stopping by to check out my GitHub profile!
 
 <!--
 **brandon3plett/brandon3plett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
