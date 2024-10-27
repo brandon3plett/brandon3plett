@@ -1,7 +1,5 @@
 ### Hey there! 👋👋
 
-The name's Brandon.  Thanks for dropping in and checking out my GitHub profile.  Going to try to keep up to date with this as much as possible.
-
 <!--
 **brandon3plett/brandon3plett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
